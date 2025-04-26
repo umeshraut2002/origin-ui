@@ -1,0 +1,26 @@
+# Origin Ui - Component Library 
+
+## OObjective 
+- The purpose of building this library is when i would like to develope and web site in a minimum time using an "tailwindcss" i need to reusable components for save my time. Well there is lots of available component library but Origin UI have its on usp which is (Comonly use in every project custemized).
+
+## Features 
+- Comon components 
+-- header, hero section, cards, footer, shopping cards, button, input, sidebar
+- templates
+-- login, signup. blog post, dashboard
+
+## Tech - Stack 
+- html 
+- css
+- javascript
+- tailwindcss 
+
+## Design Requirements 
+- Primary Color: 
+- Secondary Color: 
+- font family 
+- inter 
+- icons - heroicons 
+
+## Timeline 
+- 48 hours 
